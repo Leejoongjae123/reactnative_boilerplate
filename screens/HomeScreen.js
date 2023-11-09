@@ -4,7 +4,7 @@ import React from "react";
 export default function HomeScreen() {
   return (
     <SafeAreaView>
-      <Text>HomeScreen</Text>
+      <Text className='bg-red-200'>HomeScreen</Text>
     </SafeAreaView>
   );
 }
